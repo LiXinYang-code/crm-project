@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/crm" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/crm/pom.xml" />
+        <option value="$PROJECT_DIR$/crm-mybatis-generator/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="PDMPlugin">
+    <option name="skipTestSources" value="false" />
+  </component>
+  <component name="ProjectResources">
+    <resource url="http://www.springframework.org/schema/mvc" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2021.1/extResources/5ea71844_spring-tool-3.0.xsd" />
+    <resource url="http://www.springframework.org/schema/task" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2021.1/extResources/5ea71844_spring-tool-3.0.xsd" />
+    <resource url="http://www.springframework.org/schema/util" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2021.1/extResources/5ea71844_spring-tool-3.0.xsd" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
